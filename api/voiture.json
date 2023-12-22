@@ -1,0 +1,27 @@
+
+[
+  {
+      "marque": "Fiat",
+      "annee": "1960",
+      "type": "Utilitaire",
+      "etat": "Ancien",
+      "description": "Utilisée souvent dans les films anciens comme La dolce vita.",
+      "image": "./asset/1950-500.jpg"
+  },
+  {
+      "marque": "Ford Mustang",
+      "annee": "1977",
+      "type": "Sport",
+      "etat": "Ancien",
+      "description": "Utilisée dans des films d'action américain.",
+      "image": "./asset/ford.jpg"
+  },
+  {
+      "marque": "DeLorean",
+      "annee": "1982",
+      "type": "Sport",
+      "etat": "Ancien",
+      "description": "Retour vers le futur : DeLorean, une histoire nord-irlandaise.",
+      "image": "./asset/delorean.jpg"
+  }
+]
